@@ -1,4 +1,4 @@
-module github.com/Georgi-Progger/smtp-service/tree/main/pkg/otpmailstorage
+module github.com/smtp-service/tree/main/pkg/otpmailstorage
 
 go 1.21.3
 
